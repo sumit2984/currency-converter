@@ -4,7 +4,7 @@ This is a currency converter web application created using HTML, CSS, and JavaSc
 
 ## Preview
 
-![Currency Converter Preview](img.png.png)
+![Currency Converter Preview](img.png)
 
 ## Features
 
