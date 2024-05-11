@@ -15,9 +15,6 @@ This is a currency converter web application created using HTML, CSS, and JavaSc
 
 1. Clone the repository:
 
-   ```bash
-   git clone <repository-url>
-
 2- Open index.html in your web browser.
 
 3-Select the base currency and target currency from the dropdown menus.
